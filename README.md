@@ -9,4 +9,6 @@ Los principales resultados es la evolucion de tiempo en obtener un empleo y el v
 Resultados pueden encontrarse en la carpeta **Figures**. 
 
 
-Información producida y propiedad de ABREC, Asociación de Becarios del Ecuador: https://www.abrec.org/
+Información contenida en este repositorio es producida por y es de propiedad de **ABREC, Asociación de Becarios del Ecuador**
+Contacto:
+https://www.abrec.org/
